@@ -1,0 +1,10 @@
+[error] C:\Users\salaz\Desktop\OPALExample\src\main\scala\org\example\Scala Testclasses\ModifyMethodTestClass.scala:10:8: ModifyMethodTestClass is already defined as class ModifyMethodTestClass
+[error] object ModifyMethodTestClass {
+[error]        ^
+[error] C:\Users\salaz\Desktop\OPALExample\src\main\scala\org\example\Scala Testclasses\ModifyMethodTestClass.scala:27:7: ModifyMethodTestClass is already defined as class ModifyMethodTestClass
+[error] class ModifyMethodTestClass {
+[error]       ^
+[error] C:\Users\salaz\Desktop\OPALExample\src\main\scala\org\example\TestClass.java:3:14: TestClass is already defined as object TestClass
+[error] public class TestClass {
+[error]              ^
+[error] three errors found
