@@ -1,0 +1,4 @@
+[debug] > Exec(sbtVersion, None, None)
+[debug] Evaluating tasks: sbtVersion
+[info] 1.10.7
+[debug] > Exec(idea-shell, None, None)

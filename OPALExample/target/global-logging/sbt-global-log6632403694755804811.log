@@ -1,0 +1,23 @@
+[debug] > Exec(sbt clean, None, None)
+[warn] build source files have changed
+[warn] modified files: 
+[warn]   C:\Users\salaz\Desktop\OPALExample\build.sbt
+[warn] Apply these changes by running `reload`.
+[warn] Automatically reload the build when source changes are detected by setting `Global / onChangedBuildSource := ReloadOnSourceChanges`.
+[warn] Disable this warning by setting `Global / onChangedBuildSource := IgnoreSourceChanges`.
+[error] Expected ID character
+[error] Not a valid command: sbt (similar: set, boot, last)
+[error] Expected 'sbtRebootNetwork'
+[error] Expected project ID
+[error] Expected configuration
+[error] Expected ':'
+[error] Expected key
+[error] Not a valid key: sbt (similar: test, state, ivySbt)
+[error] Expected 'sbtPromptChannel'
+[error] Expected 'sbtRebootImpl'
+[error] Expected 'sbtReportResult'
+[error] Expected 'sbtMapExec'
+[error] Expected 'sbtCompleteExec'
+[error] sbt clean
+[error]    ^
+[debug] > Exec(idea-shell, None, None)

@@ -1,0 +1,11 @@
+[debug] > Exec(javac -c -v "C:\Users\salaz\Desktop\OPALExample\target\scala-2.13\classes\TestClass.class$", None, None)
+[error] Expected ID character
+[error] Not a valid command: javac (similar: eval)
+[error] Expected project ID
+[error] Expected configuration
+[error] Expected ':'
+[error] Expected key
+[error] Not a valid key: javac (similar: javaSource, javaHome, javacOptions)
+[error] javac -c -v "C:\Users\salaz\Desktop\OPALExample\target\scala-2.13\classes\TestClass.class$"
+[error]      ^
+[debug] > Exec(idea-shell, None, None)
