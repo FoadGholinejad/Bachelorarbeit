@@ -7,7 +7,7 @@ This repository contains four independent Java projects developed as part of my 
 Each subdirectory represents a standalone IntelliJ project:
 
 - `ASMExample/` – Instrumentation tasks using the ASM framework
-- `JavaAssistExample/` – Instrumentation using Javassist
+- `JavassistExample/` – Instrumentation using Javassist
 - `OPALExample/` – Bytecode transformation in Scala using OPAL’s CODE DSL
 - `BAJarFile/` – Contains `myApp.jar`, a compiled multi-threaded application used to test instrumentation at runtime (e.g., security enforcement)
 
