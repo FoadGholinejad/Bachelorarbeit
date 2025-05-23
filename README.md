@@ -32,4 +32,5 @@ To provide practical, measurable, and structured examples for comparing Java byt
 
 ## 📄 License
 
-For academic and educational use only.
+This project is licensed for academic and educational purposes only.  
+© 2025 Foad Gholinejad – TU Dortmund
